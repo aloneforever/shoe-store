@@ -1,0 +1,79 @@
+/*  #53B2A3 - darkgturquoise;
+    #D3FFF7 - lightgreenblue;
+    #B2755E - darkbrown; 
+    #ABFFF2 - lightblue; 
+    #FFDCD4 - lightbrown*
+    
+    
+    https://color.adobe.com/create/color-wheel/?copy=true&base=3&rule=Custom&selected=3&name=Copy%20of%20Franky%20Demon&mode=cmyk&rgbvalues=0.3245125421412336,0.7,0.6380636072359395,0.8258437528326203,1,0.9669986666253341,0.7,0.45830461661141836,0.3680906269828342,0.6699999999999999,0.9994062436693835,0.95,1,0.863574164822948,0.83&swatchOrder=0,1,2,3,4
+    */
+body {
+    background-color:#ABFFF2;
+    padding:20px;
+}
+#header {
+    background-color:#53B2A3;
+    color:#D3FFF7;
+    margin:-30px;
+    padding:20px;
+    font-family:lucida calligraphy;
+}
+#nav {
+    background-color:#D3FFF7;
+    padding:10px;
+    margin:-30px;
+}
+#contact {
+    background-color:#FFDCD4;
+    color:#B2755E;
+    font-family:sans-serif;
+    padding:10px;
+}
+#saleplease {
+    color:#53B2A3;
+    font-family:sans-serif;
+    padding:25px;
+    margin-right:15px;
+    font-size:20px;
+}
+#shoe {
+    float:left;
+    margin-top:20px;
+    padding-right:10px;
+}
+a {
+    text-decoration: none;
+    color:#B2755E;
+    font-size:20px;
+    font-family:monospace;
+    transition:color 1s;
+    padding:8px;
+}
+a:hover {
+    color:#FFDCD4;
+    transition:color .5s;
+}
+li {
+    display:inline;
+    padding:10px;
+}
+h3 {
+    color:#B2755E;
+    font-family:sans-serif;
+}
+p {
+    padding:10px;
+}
+#images {
+    padding-left:30%;
+    margin:30px;
+    font-family:monospace;
+}
+#shoesale {
+    color:#53B2A3;
+    text-align:center;
+    padding-right:430px;
+}
+#shoesale h2 {
+    font-size:30px;
+}
